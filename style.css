@@ -1,0 +1,44 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.panel {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.list {
+    padding-left: 0px;
+}
+
+.list-item {
+    list-style-type: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-top: 10px;
+    min-height: 50px;
+    line-height: 50px;
+}
+
+.right {
+    float: right;
+}
+
+.crossed {
+    text-decoration: line-through;
+}
+
+#addButton {
+    margin-top: 5px;
+}
